@@ -10,3 +10,14 @@ body{
   
   text-align: center;
 }
+
+button{
+  border: none;
+  padding: 20px 40px;
+  border-radius: 80px;
+  color: black;
+  font-size: larger;
+  background-color: rgba(86, 186, 240, 0.324);
+  cursor: pointer;
+
+}
